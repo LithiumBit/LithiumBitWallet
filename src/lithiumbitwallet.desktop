@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LithiumBit Wallet
+Comment=LithiumBit wallet
+Exec=LithiumBit %U
+Terminal=false
+Type=Application
+Icon=lithiumbit
+MimeType=x-scheme-handler/lithiumbit;
+Categories=Office;Finance;
