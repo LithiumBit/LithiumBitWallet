@@ -1,5 +1,6 @@
 # LithiumBitWallet
 
+#### Trasladar archivos de Repositorio "LithiumBit" a carpeta "cryptonote"
 #### On * nix / OS X
 
 Dependencies: CMake 2.8.6 or later, Boost 1.59 or later and QT 5.1 or later.
