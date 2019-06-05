@@ -60,7 +60,7 @@ namespace WalletGui {
 namespace {
 
 const int MAX_RECENT_WALLET_COUNT = 10;
-const char COMMUNITY_FORUM_URL[] = "http://pool.lithiumbit.com/";
+const char COMMUNITY_FORUM_URL[] = "http://pool01.lithiumbit.com";
 const char REPORT_ISSUE_URL[] = "http://lithiumbit.com/help/";
 
 const char DONATION_URL_DONATION_TAG[] = "donation";
